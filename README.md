@@ -164,7 +164,7 @@ A user-item interaction matrix is created based on user behavior history and imp
 
 ## 👥 Team Members (Amrita School of Computing, Bengaluru)
 
-- **Naga Ruthvika Durupudi** *(Author)*  
+- **Naga Ruthvika Durupudi**
 - **Adrija Adhikary**  
 - **Nagasarapu Sarayu Krishna**  
 - **Vedha Pranava Mateti**  
