@@ -148,7 +148,7 @@ A user-item interaction matrix is created based on user behavior history and imp
 
 ---
 
-## Team Members & Mentor 
+## Team Members 
 Naga Ruthvika Durupudi
 
 Adrija Adhikary
@@ -157,6 +157,8 @@ Nagasarapu Sarayu Krishna
 
 Vedha Pranava Mateti
 
-Nandu C Nair( Mentor ) 
+### **Mentor**
+
+- Nandu C Nair
 ---
  
