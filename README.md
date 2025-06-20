@@ -162,18 +162,22 @@ A user-item interaction matrix is created based on user behavior history and imp
 
 ---
 
-## 👥 Team Members (Amrita School of Computing, Bengaluru)
+## 👥 Team Members  
+*B.Tech CSE, Batch of 2022–2026*  
+**Amrita School of Computing, Bengaluru**  
+**Amrita Vishwa Vidyapeetham, India**
 
-- **Naga Ruthvika Durupudi**
+- **Naga Ruthvika Durupudi**  
 - **Adrija Adhikary**  
 - **Nagasarapu Sarayu Krishna**  
-- **Vedha Pranava Mateti**  
+- **Vedha Pranava Mateti**
 
 ---
 
 ## 🎓 Mentor
 
 - **Dr. Nandu C Nair**  
+  Associate Professor  
   Department of Computer Science and Engineering  
   Amrita School of Computing, Bengaluru  
   Amrita Vishwa Vidyapeetham, India
@@ -182,9 +186,11 @@ A user-item interaction matrix is created based on user behavior history and imp
 
 ## 🙏 Acknowledgment
 
-This project was developed as part of the academic curriculum under the guidance of **Dr. Nandu C Nair**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru campus.
+This project was developed as part of the academic curriculum for the **B.Tech CSE Batch of 2022–2026** under the mentorship of **Dr. Nandu C Nair**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru campus.
 
 ---
-> This project was developed as part of the curriculum at  
-> **Amrita School of Computing, Bengaluru — Amrita Vishwa Vidyapeetham (India)**.
+
+> 📚 Developed as part of the academic curriculum at  
+> **Amrita School of Computing, Bengaluru**  
+> **Amrita Vishwa Vidyapeetham, India**
 
