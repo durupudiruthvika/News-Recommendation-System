@@ -1,5 +1,18 @@
  
 # **News Recommendation System**
+## 📌 Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Dataset](#dataset)
+- [Technologies Used](#technologies-used)
+- [Library Imports](#library-imports)
+- [Data Loading](#data-loading)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Building the Recommendation System](#building-the-recommendation-system)
+- [Evaluation Metrics for Hybrid Model](#evaluation-metrics-for-hybrid-model)
+- [Team Members](#team-members)
+- [Mentor](#mentor)
+- [Acknowledgment](#acknowledgment)
 
 ## **Project Overview**
 
@@ -39,6 +52,7 @@ The recommendation system relies on a structured dataset containing:
 - **Category**: Tag or label associated with the article (e.g., sports, politics, technology).
 - **User Interactions**: Optional; historical user data like clicks or ratings.
 
+**Data Source:** [MINDsmall Dataset](https://www.kaggle.com/datasets/arashnic/mind-news-dataset)
 ---
 
 ## **Technologies Used**
@@ -148,17 +162,29 @@ A user-item interaction matrix is created based on user behavior history and imp
 
 ---
 
-## Team Members 
-Naga Ruthvika Durupudi
+## 👥 Team Members (Amrita School of Computing, Bengaluru)
 
-Adrija Adhikary
+- **Naga Ruthvika Durupudi** *(Author)*  
+- **Adrija Adhikary**  
+- **Nagasarapu Sarayu Krishna**  
+- **Vedha Pranava Mateti**  
 
-Nagasarapu Sarayu Krishna
-
-Vedha Pranava Mateti
-
-### **Mentor**
-
-- Nandu C Nair
 ---
- 
+
+## 🎓 Mentor
+
+- **Dr. Nandu C Nair**  
+  Department of Computer Science and Engineering  
+  Amrita School of Computing, Bengaluru  
+  Amrita Vishwa Vidyapeetham, India
+
+---
+
+## 🙏 Acknowledgment
+
+This project was developed as part of the academic curriculum under the guidance of **Dr. Nandu C Nair**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru campus.
+
+---
+> This project was developed as part of the curriculum at  
+> **Amrita School of Computing, Bengaluru — Amrita Vishwa Vidyapeetham (India)**.
+
